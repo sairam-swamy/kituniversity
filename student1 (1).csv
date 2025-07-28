@@ -1,0 +1,57 @@
+id,name,section,annual_marks,half_year_marks,age,gender
+1,Arjun Kumar,A,85,42,16,Male
+2,Simran Kaur,B,90,45,17,Female
+3,Ravi Singh,A,93,39,15,Male
+4,Neha Patel,C,88,44,16,Female
+5,Manoj Sharma,A,82,41,16,Male
+6,Anjali Reddy,B,91,46,17,Female
+7,Karan Verma,C,79,39,16,Male
+8,Sanya Gupta,A,92,46,17,Female
+9,Rohit Mehra,B,80,40,15,Male
+10,Preeti Joshi,C,75,37,16,Female
+11,Harish Yadav,A,93,42,17,Male
+12,Sneha Desai,B,89,44,16,Female
+13,Arvind Choudhary,C,95,47,17,Male
+14,Rupa Iyer,A,70,35,15,Female
+14,Rupa Iyer,A,70,35,15,Female
+15,Vishal Bansal,B,93,47,16,Male
+16,Kavita Nair,C,81,40,16,Female
+17,Suraj Patel,A,77,38,16,Male
+17,Suraj Patel,A,77,38,16,Male
+18,Divya Ramesh,B,85,43,17,Female
+19,Jayesh Shah,C,90,45,16,Male
+19,Jayesh Shah,C,90,45,16,Male
+20,Priya Kapoor,A,78,39,16,Female
+20,Priya Kapoor,A,78,39,16,Female
+21,Ajay Yadav,B,94,47,16,Male
+22,Neelam Saxena,C,82,41,17,Female
+22,Neelam Saxena,C,82,41,17,Female
+23,Vikas Verma,A,88,44,15,Male
+23,Vikas Verma,A,88,44,15,Male
+24,Kriti Mehta,B,86,43,16,Female
+,,,,,,
+25,Rajeev Bhatia,C,80,40,16,Male
+26,Shilpa Chawla,A,87,43,16,Female
+27,Devansh Kumar,B,74,37,15,Male
+28,Sunita Rao,C,92,46,17,Female
+,,,,,,
+28,Sunita Rao,C,92,46,17,Female
+29,Harpreet Singh,A,93,46,17,Male
+30,Geetika Arora,B,95,47,16,Female
+,,,,,,
+31,Geetika Arora,B,,47,16,
+17,Suraj Patel,A,77,38,16,Male
+17,Suraj Patel,A,78,38,16,Male
+28,Sunita Rao,C,92,46,15,Female
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+33,,A,90,40,,Male
+34,,B,80,35,,Female
+,,A,30,,,
+,,c,40,45,17,
+35,,A,60,46,,Female
+,,A,10,32,14,
+36,,A,60,29,15,Female
